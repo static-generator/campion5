@@ -1,6 +1,6 @@
 # campion5
-## *Klyde Citrix Calubaquib*
-> seatrix
+## *Jethro cezar T. Badiola*
+> sizar
 
 
-[klyde website](https://static-generator.github.io/campion5/)
+[klyde website](https://static-generator.github.io/campion9/)
