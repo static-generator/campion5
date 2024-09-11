@@ -1,6 +1,6 @@
 # campion5
 ## *Klyde Citrix Calubaquib*
-> in ur dreamz
+> seatrix
 
 
 [klyde website](https://static-generator.github.io/campion5/)
